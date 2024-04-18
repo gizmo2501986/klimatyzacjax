@@ -1,0 +1,61 @@
+@media (max-width: 600px) {
+    .logo{
+        height: 35px !important;
+        width: 200px !important;
+    }
+    .header_logo{
+        height: 35px !important;
+        width: 200px !important;
+
+    }
+
+    .male_logo{
+
+        width: 200px !important;
+    }
+
+
+    .srodek{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+
+    }
+
+    .odstep{
+        box-sizing: content-box;
+    }
+
+
+
+
+}
+
+
+
+@media (max-width: 572px) {
+    .szerokosc{
+        width: 100%;
+    }
+
+    .przycisk{
+        width: 50%;
+    }
+
+
+}
+
+
+.cien{
+    text-shadow: 2px 2px 2px black;
+}
+
+.cien2{
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+
+
+.bg-ecoms{
+    background-color: #b5ba05;
+
+}
